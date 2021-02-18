@@ -5,7 +5,8 @@ You can use the [editor on GitHub](https://github.com/Toraycaaa/CSS-Demo/edit/ma
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-<a href="Ghost/">ghost</a>
+<a href="Ghost/">ghost source code</a>
+<a href="https://toraycaaa.github.io/CSS-Demo/Ghost/">Ghost Demo</a>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
