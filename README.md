@@ -32,15 +32,19 @@ It's a repo to store the CSS demo I've practiced.
 
 ### Idea:
 
-When the content is not too much:
 
-![1613792846680](C:\Users\lizhiyao\AppData\Roaming\Typora\typora-user-images\1613792846680.png)
+## Sliding Captcha
 
+### Demo:
 
+<a href="https://toraycaaa.github.io/CSS-Demo/Sliding Captcha/">Sliding Captcha Demo</a>
 
-If there are too much content need to be show:
+### Source code:
 
-![1613792874890](C:\Users\lizhiyao\AppData\Roaming\Typora\typora-user-images\1613792874890.png)
+<a href="Sliding Captcha/">source code</a>
+
+### Idea:
+
 
 
 
